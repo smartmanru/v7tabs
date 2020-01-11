@@ -10,7 +10,10 @@
 	min-width: 212px;
 	-webkit-animation: top 0.2s ease-out;
 }
-
+#sideBarTabsPanel
+{
+	background-color:#cfeeff;
+}
 .tB_ {
 	position: absolute;
 	top: 0;
